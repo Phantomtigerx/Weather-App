@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#search-section {
+    margin-bottom: 20px;
+}
+
+#current-weather, #forecast {
+    margin-top: 20px;
+}
+
+#search-history {
+    margin-top: 20px;
+}
